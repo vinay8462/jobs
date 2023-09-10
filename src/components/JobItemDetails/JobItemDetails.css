@@ -1,0 +1,109 @@
+.list-container {
+  color: #ffffff;
+  background-color: #2c364c;
+  list-style: none;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.company-logo {
+  height: 60px;
+  padding: 10px;
+  margin-top: 14px;
+}
+.company-title-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+}
+.rating-container {
+  display: flex;
+  flex-direction: row;
+  margin-right: 15px;
+}
+
+.rating-icon {
+  color: gold;
+  margin-top: 3px;
+}
+
+.rating {
+  margin-top: 0px;
+  margin-left: 5px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+}
+.location-container {
+  display: flex;
+  flex-direction: row;
+}
+.bottom-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.link-item {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: #ffffff;
+}
+.item-bg-container {
+  background-color: black;
+  padding-bottom: 30px;
+}
+.details-container {
+  margin: 40px;
+  color: #ffffff;
+  background-color: #2c364c;
+  list-style: none;
+  padding: 20px;
+  border-radius: 10px;
+}
+.list_items {
+  list-style: none;
+  margin-right: 150px;
+  margin-bottom: 50px;
+}
+.un-order-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.skill-container {
+  display: flex;
+}
+.skill-logo {
+  width: 50px;
+  margin-right: 20px;
+}
+
+.life-at-company {
+  display: flex;
+  justify-content: space-around;
+}
+
+.life-para {
+  padding-right: 80px;
+  margin-left: 20px;
+  margin-right: 30px;
+}
+.life-logo {
+  margin-right: 30px;
+  margin: 20px;
+  width: 250px;
+}
+.heading {
+  color: #ffffff;
+  margin-left: 40px;
+}
+.un-order-list-similar-items {
+  display: flex;
+  flex-direction: row;
+}
+.h3 {
+  margin-left: 20px;
+}

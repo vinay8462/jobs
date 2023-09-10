@@ -1,0 +1,44 @@
+.jobs-container {
+  background-color: black;
+  color: white;
+}
+.break-line {
+  color: white;
+}
+
+.employment-heading {
+  font-size: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.left-container {
+  margin: 10px;
+}
+.search-input {
+  background-color: transparent;
+  width: 220px;
+  height: 35px;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #ffffff;
+}
+.search-button {
+  height: 35px;
+  border-radius: 5px;
+  width: 35px;
+  margin-left: auto;
+}
+.employment-list {
+  list-style: none;
+  padding: 5px;
+  margin-left: 0px;
+}
+.employment-heading {
+  font-size: 20px;
+}

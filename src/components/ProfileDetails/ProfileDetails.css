@@ -1,0 +1,21 @@
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 30vh;
+  width: 20vw;
+  border-radius: 13px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.bio-image {
+  width: 50px;
+}
+.bio-name {
+  font-size: 20px;
+  color: blue;
+}
+.bio {
+  color: darkslategrey;
+  margin: auto;
+}
